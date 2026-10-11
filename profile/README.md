@@ -23,6 +23,6 @@ Built with Lovable and Claude Code · August – November 2026
 
 ### Team
 
-Tang Zong Nan · Lee Chenhui · Tanya Deepak Chugani · Elina Sim Si Ting · Ryan Loh Ee Han · Chong Le Xuan, Chloe
+Tang Zong Nan · Lee Chen Hui · Tanya Deepak Chugani · Elina Sim Si Ting · Ryan Loh Ee Han · Chong Le Xuan, Chloe
 
 Supervised by Dr Ho Shen Yong
